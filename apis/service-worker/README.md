@@ -6,7 +6,7 @@ Exemplo de uso da API de _Service Worker_.
 
 ## Links do Exemplo
 
-- Link para seminário: [slides de aula][slides]
+- Link para seminário: [slides][slides]
 - Link para exemplo publicado: [página no GitHub][vivo]
 
 ## Créditos
@@ -19,5 +19,5 @@ Autor(es):
 1. Felipe Freitas
 1. Luis Nascimento
 
-[slides]: https://...
-[vivo]: https://...
+[slides]: https://sosistemassistemas.github.io/service-workers-seminar-presentation/
+[vivo]: https://fegemo.github.io/cefet-web-weblot/apis/service-worker/
